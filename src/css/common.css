@@ -17,6 +17,7 @@ img {
   max-width: 100%;
 }
 
+/* убираем маркеры */
 li {
   list-style-type: none;
 }
